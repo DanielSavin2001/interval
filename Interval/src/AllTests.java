@@ -12,5 +12,9 @@ class IntervalTest{
 		
 	}
 	
+	void setBovengrens(Interval interval, int waarde) {
+		
+	}
+	
 	
 }
